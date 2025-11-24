@@ -1,1 +1,1 @@
-# github-actions-three
+# github-actions-excercise
